@@ -61,4 +61,3 @@ To integrate the feature into the official codebase:
 - Pushes the main branch to the official repository on the server.
 
 The contribution is now part of the project, and other developers should pull from the official repository to synchronize their local repositories.
-
